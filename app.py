@@ -65,3 +65,32 @@ def get_languages():
 def mbsa():
     return render_template('index.html')
 
+# Route to perform text-to-speech conversion
+@app.route("/text-to-speech", methods=["POST", "GET"])
+def text_to_speech():
+    if request.method == "POST":
+        data = request.get_json()
+        text = data.get("text")
+        language_code = data.get("language_code", "English-Jenny (Female)")
+        voice = data.get("voice", "en-US-JennyNeural")  # Default to en-US-JennyNeural if not provided
+        rate = data.get("rate", "0%")
+        volume = data.get("volume", "0%")
+        pitch = data.get("pitch", "0Hz")
+
+        if text is None:
+            return jsonify({"error": "Text parameter is required."}), 400
+
+        loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
+        output_audio_path = loop.run_until_complete(
+            text_to_speech_edge(text, language_code, voice, rate, volume, pitch)
+        )
+
+        # Extract the filename from the output_audio_path
+        filename = os.path.basename(output_audio_path)
+
+        return jsonify({"audio_path": f"/audio/{filename}"})
+
+    elif request.method == "GET":
+        return "This endpoint only accepts POST requests.", 405
+
