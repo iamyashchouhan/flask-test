@@ -65,32 +65,41 @@ def get_languages():
 def mbsa():
     return render_template('index.html')
 
-# Route to perform text-to-speech conversion
-@app.route("/text-to-speech", methods=["POST", "GET"])
-def text_to_speech():
-    if request.method == "POST":
-        data = request.get_json()
-        text = data.get("text")
+@app.route("/tts", methods=["POST"])
+def predict():
+    try:
+        # Get data from the POST request
+        data = request.json
+
+        # Extract input text and parameters from the data
+        input_text = data.get("text", "")
         language_code = data.get("language_code", "English-Jenny (Female)")
-        voice = data.get("voice", "en-US-JennyNeural")  # Default to en-US-JennyNeural if not provided
-        rate = data.get("rate", "0%")
-        volume = data.get("volume", "0%")
-        pitch = data.get("pitch", "0Hz")
+        rate = int(data.get('rate', -10))
+        volume = int(data.get('volume', -10))
+        pitch = int(data.get('pitch', -10))
 
-        if text is None:
-            return jsonify({"error": "Text parameter is required."}), 400
+        # Initialize Gradio client
+        client = Client("https://lelafav502-ttsstt.hf.space/")
 
-        loop = asyncio.new_event_loop()
-        asyncio.set_event_loop(loop)
-        output_audio_path = loop.run_until_complete(
-            text_to_speech_edge(text, language_code, voice, rate, volume, pitch)
+        # Make prediction
+        result = client.predict(
+            input_text,
+          language_code,
+            rate,
+            volume,
+            pitch,
+            api_name="/predict"
         )
 
-        # Extract the filename from the output_audio_path
-        filename = os.path.basename(output_audio_path)
+        # Extract speech synthesis result and path
+        text = result[0]
+        path = result[1]
 
-        return jsonify({"audio_path": f"/audio/{filename}"})
+        # Create dictionary to hold response data
+        response_data = {"text": text, "path": path}
 
-    elif request.method == "GET":
-        return "This endpoint only accepts POST requests.", 405
+        return jsonify(response_data)
+
+    except Exception as e:
+        return jsonify({"error": str(e)})
 
