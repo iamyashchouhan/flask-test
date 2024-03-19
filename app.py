@@ -69,6 +69,16 @@ def get_languages():
 def mbsa():
     return render_template('index.html')
 
+@app.route('/get')
+def scrape_and_render():
+    # Fetch HTML content from the website
+    url = 'https://temp-number.com/temporary-numbers/United-States/12085813709/1'
+    response = requests.get(url)
+    html_content = response.text
+
+    # Render the HTML content in your Flask application
+    return render_template('index.html', html_content=html_content)
+
 @app.route("/country/<country>")
 def get_country_data(country):
     try:
