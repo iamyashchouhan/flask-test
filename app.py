@@ -7,6 +7,8 @@ import string
 import os
 import asyncio
 from gradio_client import Client
+from bs4 import BeautifulSoup
+import requests
 
 
 
@@ -66,6 +68,29 @@ def get_languages():
 @app.route("/mbsa")
 def mbsa():
     return render_template('index.html')
+
+@app.route("/country/<country>")
+def get_country_data(country):
+    try:
+        url = f"https://temp-number.com/countries/{country}/1"
+        response = requests.get(url)
+        html = response.text
+        soup = BeautifulSoup(html, "html.parser")
+
+        # Now you can use BeautifulSoup to extract data from the HTML content
+        country_data = []
+        country_boxes = soup.select("div.country-box")
+        for box in country_boxes:
+            time = box.select_one(".add_time-top").get_text().strip()
+            phone_number = box.select_one(".card-title").get_text().strip()
+
+            country_data.append({"time": time, "phoneNumber": phone_number, "country": country})
+
+        return jsonify({"country": country, "countryData": country_data})
+
+    except Exception as e:
+        print("Error fetching data:", e)
+        return jsonify({"error": "Internal Server Error"}), 500
 
 @app.route("/tts", methods=["POST"])
 def predict():
