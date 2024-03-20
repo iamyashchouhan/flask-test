@@ -4,1609 +4,1839 @@
         "Gender": "Female",
         "ShortName": "Jenny",
         "Country": "United States of America",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "Name": "English-Guy (Male)",
         "Gender": "Male",
         "ShortName": "Guy",
         "Country": "United States of America",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "Name": "English-Ana (Female)",
         "Gender": "Female",
         "ShortName": "Ana",
         "Country": "United States of America",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "Name": "English-Aria (Female)",
         "Gender": "Female",
         "ShortName": "Aria",
         "Country": "United States of America",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "Name": "English-Christopher (Male)",
         "Gender": "Male",
         "ShortName": "Christopher",
         "Country": "United States of America",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "Name": "English-Eric (Male)",
         "Gender": "Male",
         "ShortName": "Eric",
         "Country": "United States of America",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "Name": "English-Michelle (Female)",
         "Gender": "Female",
         "ShortName": "Michelle",
         "Country": "United States of America",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "Name": "English-Roger (Male)",
         "Gender": "Male",
         "ShortName": "Roger",
         "Country": "United States of America",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "Name": "Spanish (Mexican)-Dalia (Female)",
         "Gender": "Female",
         "ShortName": "Dalia",
         "Country": "Mexico",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddf2\ud83c\uddfd"
     },
     {
         "Name": "Spanish (Mexican)-Jorge- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Mexico",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddf2\ud83c\uddfd"
     },
     {
         "Name": "Korean-Sun-Hi- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Korea (Republic of)",
-        "Language": "Korean"
+        "Language": "Korean",
+        "Emoji": "\ud83c\uddf0\ud83c\uddf7"
     },
     {
         "Name": "Korean-InJoon- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Korea (Republic of)",
-        "Language": "Korean"
+        "Language": "Korean",
+        "Emoji": "\ud83c\uddf0\ud83c\uddf7"
     },
     {
         "Name": "Thai-Premwadee- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Thailand",
-        "Language": "Thai"
+        "Language": "Thai",
+        "Emoji": "\ud83c\uddf9\ud83c\udded"
     },
     {
         "Name": "Thai-Niwat- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Thailand",
-        "Language": "Thai"
+        "Language": "Thai",
+        "Emoji": "\ud83c\uddf9\ud83c\udded"
     },
     {
         "Name": "Vietnamese-HoaiMy- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Viet Nam",
-        "Language": "Vietnamese"
+        "Language": "Vietnamese",
+        "Emoji": "\ud83c\uddfb\ud83c\uddf3"
     },
     {
         "Name": "Vietnamese-NamMinh- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Viet Nam",
-        "Language": "Vietnamese"
+        "Language": "Vietnamese",
+        "Emoji": "\ud83c\uddfb\ud83c\uddf3"
     },
     {
         "Name": "Japanese-Nanami- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Japan",
-        "Language": "Japanese"
+        "Language": "Japanese",
+        "Emoji": "\ud83c\uddef\ud83c\uddf5"
     },
     {
         "Name": "Japanese-Keita- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Japan",
-        "Language": "Japanese"
+        "Language": "Japanese",
+        "Emoji": "\ud83c\uddef\ud83c\uddf5"
     },
     {
         "Name": "French-Denise- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "France",
-        "Language": "French"
+        "Language": "French",
+        "Emoji": "\ud83c\uddeb\ud83c\uddf7"
     },
     {
         "Name": "French-Eloise- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "France",
-        "Language": "French"
+        "Language": "French",
+        "Emoji": "\ud83c\uddeb\ud83c\uddf7"
     },
     {
         "Name": "French-Henri- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "France",
-        "Language": "French"
+        "Language": "French",
+        "Emoji": "\ud83c\uddeb\ud83c\uddf7"
     },
     {
         "Name": "Brazilian-Francisca- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Brazil",
-        "Language": "Portuguese"
+        "Language": "Portuguese",
+        "Emoji": "\ud83c\udde7\ud83c\uddf7"
     },
     {
         "Name": "Brazilian-Antonio- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Brazil",
-        "Language": "Portuguese"
+        "Language": "Portuguese",
+        "Emoji": "\ud83c\udde7\ud83c\uddf7"
     },
     {
         "Name": "Indonesian-Ardi- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Indonesia",
-        "Language": "Indonesian"
+        "Language": "Indonesian",
+        "Emoji": "\ud83c\uddee\ud83c\udde9"
     },
     {
         "Name": "Indonesian-Gadis- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Indonesia",
-        "Language": "Indonesian"
+        "Language": "Indonesian",
+        "Emoji": "\ud83c\uddee\ud83c\udde9"
     },
     {
         "Name": "Hebrew-Avri- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Israel",
-        "Language": "he"
+        "Language": "he",
+        "Emoji": "\ud83c\uddee\ud83c\uddf1"
     },
     {
         "Name": "Hebrew-Hila- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Israel",
-        "Language": "he"
+        "Language": "he",
+        "Emoji": "\ud83c\uddee\ud83c\uddf1"
     },
     {
         "Name": "Italian-Isabella- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Italy",
-        "Language": "Italian"
+        "Language": "Italian",
+        "Emoji": "\ud83c\uddee\ud83c\uddf9"
     },
     {
         "Name": "Italian-Diego- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Italy",
-        "Language": "Italian"
+        "Language": "Italian",
+        "Emoji": "\ud83c\uddee\ud83c\uddf9"
     },
     {
         "Name": "Italian-Elsa- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Italy",
-        "Language": "Italian"
+        "Language": "Italian",
+        "Emoji": "\ud83c\uddee\ud83c\uddf9"
     },
     {
         "Name": "Dutch-Colette- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Netherlands",
-        "Language": "Dutch"
+        "Language": "Dutch",
+        "Emoji": "\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "Name": "Dutch-Fenna- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Netherlands",
-        "Language": "Dutch"
+        "Language": "Dutch",
+        "Emoji": "\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "Name": "Dutch-Maarten- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Netherlands",
-        "Language": "Dutch"
+        "Language": "Dutch",
+        "Emoji": "\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "Name": "Malese-Osman- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Malaysia",
-        "Language": "Malay"
+        "Language": "Malay",
+        "Emoji": "\ud83c\uddf2\ud83c\uddfe"
     },
     {
         "Name": "Malese-Yasmin- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Malaysia",
-        "Language": "Malay"
+        "Language": "Malay",
+        "Emoji": "\ud83c\uddf2\ud83c\uddfe"
     },
     {
         "Name": "Norwegian-Pernille- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Norway",
-        "Language": "nb"
+        "Language": "nb",
+        "Emoji": "\ud83c\uddf3\ud83c\uddf4"
     },
     {
         "Name": "Norwegian-Finn- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Norway",
-        "Language": "nb"
+        "Language": "nb",
+        "Emoji": "\ud83c\uddf3\ud83c\uddf4"
     },
     {
         "Name": "Swedish-Sofie- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Sweden",
-        "Language": "Swedish"
+        "Language": "Swedish",
+        "Emoji": "\ud83c\uddf8\ud83c\uddea"
     },
     {
         "Name": "ArabicSwedish-Mattias- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Sweden",
-        "Language": "Swedish"
+        "Language": "Swedish",
+        "Emoji": "\ud83c\uddf8\ud83c\uddea"
     },
     {
         "Name": "Arabic-Hamed- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Saudi Arabia",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddf8\ud83c\udde6"
     },
     {
         "Name": "Arabic-Zariyah- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Saudi Arabia",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddf8\ud83c\udde6"
     },
     {
         "Name": "Greek-Athina- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Greece",
-        "Language": "Greek"
+        "Language": "Greek",
+        "Emoji": "\ud83c\uddec\ud83c\uddf7"
     },
     {
         "Name": "Greek-Nestoras- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Greece",
-        "Language": "Greek"
+        "Language": "Greek",
+        "Emoji": "\ud83c\uddec\ud83c\uddf7"
     },
     {
         "Name": "German-Katja- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Germany",
-        "Language": "German"
+        "Language": "German",
+        "Emoji": "\ud83c\udde9\ud83c\uddea"
     },
     {
         "Name": "German-Amala- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Germany",
-        "Language": "German"
+        "Language": "German",
+        "Emoji": "\ud83c\udde9\ud83c\uddea"
     },
     {
         "Name": "German-Conrad- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Germany",
-        "Language": "German"
+        "Language": "German",
+        "Emoji": "\ud83c\udde9\ud83c\uddea"
     },
     {
         "Name": "German-Killian- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Germany",
-        "Language": "German"
+        "Language": "German",
+        "Emoji": "\ud83c\udde9\ud83c\uddea"
     },
     {
         "Name": "Afrikaans-Adri- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "South Africa",
-        "Language": "Afrikaans"
+        "Language": "Afrikaans",
+        "Emoji": "\ud83c\uddff\ud83c\udde6"
     },
     {
         "Name": "Afrikaans-Willem- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "South Africa",
-        "Language": "Afrikaans"
+        "Language": "Afrikaans",
+        "Emoji": "\ud83c\uddff\ud83c\udde6"
     },
     {
         "Name": "Ethiopian-Ameha- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Ethiopia",
-        "Language": "Amharic"
+        "Language": "Amharic",
+        "Emoji": "\ud83c\uddea\ud83c\uddf9"
     },
     {
         "Name": "Ethiopian-Mekdes- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Ethiopia",
-        "Language": "Amharic"
+        "Language": "Amharic",
+        "Emoji": "\ud83c\uddea\ud83c\uddf9"
     },
     {
         "Name": "Arabic (UAD)-Fatima- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "United Arab Emirates",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\udde6\ud83c\uddea"
     },
     {
         "Name": "Arabic (UAD)-Hamdan- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "United Arab Emirates",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\udde6\ud83c\uddea"
     },
     {
         "Name": "Arabic (Bahrain)-Ali- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Bahrain",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\udde7\ud83c\udded"
     },
     {
         "Name": "Arabic (Bahrain)-Laila- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Bahrain",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\udde7\ud83c\udded"
     },
     {
         "Name": "Arabic (Algeria)-Ismael- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Algeria",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\udde9\ud83c\uddff"
     },
     {
         "Name": "Arabic (Egypt)-Salma- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Egypt",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddea\ud83c\uddec"
     },
     {
         "Name": "Arabic (Egypt)-Shakir- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Egypt",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddea\ud83c\uddec"
     },
     {
         "Name": "Arabic (Iraq)-Bassel- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Iraq",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddee\ud83c\uddf6"
     },
     {
         "Name": "Arabic (Iraq)-Rana- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Iraq",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddee\ud83c\uddf6"
     },
     {
         "Name": "Arabic (Jordan)-Sana- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Jordan",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddef\ud83c\uddf4"
     },
     {
         "Name": "Arabic (Jordan)-Taim- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Jordan",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddef\ud83c\uddf4"
     },
     {
         "Name": "Arabic (Kuwait)-Fahed- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Kuwait",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddf0\ud83c\uddfc"
     },
     {
         "Name": "Arabic (Kuwait)-Noura- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Kuwait",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddf0\ud83c\uddfc"
     },
     {
         "Name": "Arabic (Lebanon)-Layla- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Lebanon",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddf1\ud83c\udde7"
     },
     {
         "Name": "Arabic (Lebanon)-Rami- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Lebanon",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddf1\ud83c\udde7"
     },
     {
         "Name": "Arabic (Libya)-Iman- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Libya",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddf1\ud83c\uddfe"
     },
     {
         "Name": "Arabic (Libya)-Omar- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Libya",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddf1\ud83c\uddfe"
     },
     {
         "Name": "Arabic (Morocco)-Jamal- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Morocco",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddf2\ud83c\udde6"
     },
     {
         "Name": "Arabic (Morocco)-Mouna- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Morocco",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddf2\ud83c\udde6"
     },
     {
         "Name": "Arabic (Oman)-Abdullah- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Oman",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddf4\ud83c\uddf2"
     },
     {
         "Name": "Arabic (Oman)-Aysha- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Oman",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddf4\ud83c\uddf2"
     },
     {
         "Name": "Arabic (Qatar)-Amal- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Qatar",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddf6\ud83c\udde6"
     },
     {
         "Name": "Arabic (Qatar)-Moaz- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Qatar",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddf6\ud83c\udde6"
     },
     {
         "Name": "Arabic (Syrian Arab Republic)-Amany- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Syrian Arab Republic",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddf8\ud83c\uddfe"
     },
     {
         "Name": "Arabic (Syrian Arab Republic)-Laith- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Syrian Arab Republic",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddf8\ud83c\uddfe"
     },
     {
         "Name": "Arabic (Tunisia)-Hedi- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Tunisia",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddf9\ud83c\uddf3"
     },
     {
         "Name": "Arabic (Tunisia)-Reem- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Tunisia",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddf9\ud83c\uddf3"
     },
     {
         "Name": "Arabic (Yemen\t)-Maryam- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Yemen",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddfe\ud83c\uddea"
     },
     {
         "Name": "Arabic (Yemen\t)-Saleh- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Yemen",
-        "Language": "Arabic"
+        "Language": "Arabic",
+        "Emoji": "\ud83c\uddfe\ud83c\uddea"
     },
     {
         "Name": "Azerbaijani-Babek- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Azerbaijan",
-        "Language": "Azerbaijani"
+        "Language": "Azerbaijani",
+        "Emoji": "\ud83c\udde6\ud83c\uddff"
     },
     {
         "Name": "Azerbaijani-Banu- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Azerbaijan",
-        "Language": "Azerbaijani"
+        "Language": "Azerbaijani",
+        "Emoji": "\ud83c\udde6\ud83c\uddff"
     },
     {
         "Name": "Bulgarian-Borislav- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Bulgaria",
-        "Language": "Bulgarian"
+        "Language": "Bulgarian",
+        "Emoji": "\ud83c\udde7\ud83c\uddec"
     },
     {
         "Name": "Bulgarian-Kalina- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Bulgaria",
-        "Language": "Bulgarian"
+        "Language": "Bulgarian",
+        "Emoji": "\ud83c\udde7\ud83c\uddec"
     },
     {
         "Name": "Bengali (Bangladesh)-Nabanita- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Bangladesh",
-        "Language": "Bengali"
+        "Language": "Bengali",
+        "Emoji": "\ud83c\udde7\ud83c\udde9"
     },
     {
         "Name": "Bengali (Bangladesh)-Pradeep- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Bangladesh",
-        "Language": "Bengali"
+        "Language": "Bengali",
+        "Emoji": "\ud83c\udde7\ud83c\udde9"
     },
     {
         "Name": "Bengali (India)-Bashkar- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "India",
-        "Language": "Bengali"
+        "Language": "Bengali",
+        "Emoji": "\ud83c\uddee\ud83c\uddf3"
     },
     {
         "Name": "Bengali (India)-Tanishaa- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "India",
-        "Language": "Bengali"
+        "Language": "Bengali",
+        "Emoji": "\ud83c\uddee\ud83c\uddf3"
     },
     {
         "Name": "Bosniak (Bosnia and Herzegovina)-Goran- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Bosnia and Herzegovina",
-        "Language": "Bosnian"
+        "Language": "Bosnian",
+        "Emoji": "\ud83c\udde7\ud83c\udde6"
     },
     {
         "Name": "Bosniak (Bosnia and Herzegovina)-Vesna- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Bosnia and Herzegovina",
-        "Language": "Bosnian"
+        "Language": "Bosnian",
+        "Emoji": "\ud83c\udde7\ud83c\udde6"
     },
     {
         "Name": "Catalan (Spain)-Joana- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Spain",
-        "Language": "Catalan"
+        "Language": "Catalan",
+        "Emoji": "\ud83c\uddea\ud83c\uddf8"
     },
     {
         "Name": "Catalan (Spain)-Enric- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Spain",
-        "Language": "Catalan"
+        "Language": "Catalan",
+        "Emoji": "\ud83c\uddea\ud83c\uddf8"
     },
     {
         "Name": "Czech (Czech Republic)-Antonin- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Czech Republic",
-        "Language": "Czech"
+        "Language": "Czech",
+        "Emoji": "\ud83c\udde8\ud83c\uddff"
     },
     {
         "Name": "Czech (Czech Republic)-Vlasta- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Czech Republic",
-        "Language": "Czech"
+        "Language": "Czech",
+        "Emoji": "\ud83c\udde8\ud83c\uddff"
     },
     {
         "Name": "Welsh (UK)-Aled- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "United Kingdom of Great Britain and Northern Ireland",
-        "Language": "Welsh"
+        "Language": "Welsh",
+        "Emoji": "\ud83c\uddec\ud83c\udde7"
     },
     {
         "Name": "Welsh (UK)-Nia- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "United Kingdom of Great Britain and Northern Ireland",
-        "Language": "Welsh"
+        "Language": "Welsh",
+        "Emoji": "\ud83c\uddec\ud83c\udde7"
     },
     {
         "Name": "Danish (Denmark)-Christel- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Denmark",
-        "Language": "Danish"
+        "Language": "Danish",
+        "Emoji": "\ud83c\udde9\ud83c\uddf0"
     },
     {
         "Name": "Danish (Denmark)-Jeppe- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Denmark",
-        "Language": "Danish"
+        "Language": "Danish",
+        "Emoji": "\ud83c\udde9\ud83c\uddf0"
     },
     {
         "Name": "German (Austria)-Ingrid- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Austria",
-        "Language": "German"
+        "Language": "German",
+        "Emoji": "\ud83c\udde6\ud83c\uddf9"
     },
     {
         "Name": "German (Austria)-Jonas- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Austria",
-        "Language": "German"
+        "Language": "German",
+        "Emoji": "\ud83c\udde6\ud83c\uddf9"
     },
     {
         "Name": "German (Switzerland)-Jan- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Switzerland",
-        "Language": "German"
+        "Language": "German",
+        "Emoji": "\ud83c\udde8\ud83c\udded"
     },
     {
         "Name": "German (Switzerland)-Leni- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Switzerland",
-        "Language": "German"
+        "Language": "German",
+        "Emoji": "\ud83c\udde8\ud83c\udded"
     },
     {
         "Name": "English (Australia)-Natasha- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Australia",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\udde6\ud83c\uddfa"
     },
     {
         "Name": "English (Australia)-William- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Australia",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\udde6\ud83c\uddfa"
     },
     {
         "Name": "English (Canada)-Clara- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Canada",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\udde8\ud83c\udde6"
     },
     {
         "Name": "English (Canada)-Liam- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Canada",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\udde8\ud83c\udde6"
     },
     {
         "Name": "English (UK)-Libby- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "United Kingdom of Great Britain and Northern Ireland",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddec\ud83c\udde7"
     },
     {
         "Name": "English (UK)-Maisie- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "United Kingdom of Great Britain and Northern Ireland",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddec\ud83c\udde7"
     },
     {
         "Name": "English (UK)-Ryan- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "United Kingdom of Great Britain and Northern Ireland",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddec\ud83c\udde7"
     },
     {
         "Name": "English (UK)-Sonia- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "United Kingdom of Great Britain and Northern Ireland",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddec\ud83c\udde7"
     },
     {
         "Name": "English (UK)-Thomas- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "United Kingdom of Great Britain and Northern Ireland",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddec\ud83c\udde7"
     },
     {
         "Name": "English (Hong Kong)-Sam- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Hong Kong",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": ""
     },
     {
         "Name": "English (Hong Kong)-Yan- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Hong Kong",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": ""
     },
     {
         "Name": "English (Ireland)-Connor- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Ireland",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddee\ud83c\uddea"
     },
     {
         "Name": "English (Ireland)-Emily- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Ireland",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddee\ud83c\uddea"
     },
     {
         "Name": "English (India)-Neerja- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "India",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddee\ud83c\uddf3"
     },
     {
         "Name": "English (India)-Prabhat- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "India",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddee\ud83c\uddf3"
     },
     {
         "Name": "English (Kenya)-Asilia- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Kenya",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddf0\ud83c\uddea"
     },
     {
         "Name": "English (Kenya)-Chilemba- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Kenya",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddf0\ud83c\uddea"
     },
     {
         "Name": "English (Nigeria)-Abeo- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Nigeria",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddf3\ud83c\uddec"
     },
     {
         "Name": "English (Nigeria)-Ezinne- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Nigeria",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddf3\ud83c\uddec"
     },
     {
         "Name": "English (New Zealand)-Mitchell- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "New Zealand",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddf3\ud83c\uddff"
     },
     {
         "Name": "English (Philippines)-James- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Philippines",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddf5\ud83c\udded"
     },
     {
         "Name": "English (Philippines)-Rosa- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Philippines",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddf5\ud83c\udded"
     },
     {
         "Name": "English (Singapore)-Luna- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Singapore",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddf8\ud83c\uddec"
     },
     {
         "Name": "English (Singapore)-Wayne- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Singapore",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddf8\ud83c\uddec"
     },
     {
         "Name": "English (Tanzania)-Elimu- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Tanzania, United Republic of",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddf9\ud83c\uddff"
     },
     {
         "Name": "English (Tanzania)-Imani- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Tanzania, United Republic of",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddf9\ud83c\uddff"
     },
     {
         "Name": "English (South Africa)-Leah- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "South Africa",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddff\ud83c\udde6"
     },
     {
         "Name": "English (South Africa)-Luke- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "South Africa",
-        "Language": "English"
+        "Language": "English",
+        "Emoji": "\ud83c\uddff\ud83c\udde6"
     },
     {
         "Name": "Spanish (Argentina)-Elena- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Argentina",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\udde6\ud83c\uddf7"
     },
     {
         "Name": "Spanish (Argentina)-Tomas- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Argentina",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\udde6\ud83c\uddf7"
     },
     {
         "Name": "Spanish (Bolivia)-Marcelo- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Bolivia (Plurinational State of)",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\udde7\ud83c\uddf4"
     },
     {
         "Name": "Spanish (Bolivia)-Sofia- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Bolivia (Plurinational State of)",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\udde7\ud83c\uddf4"
     },
     {
         "Name": "Spanish (Colombia)-Gonzalo- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Colombia",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\udde8\ud83c\uddf4"
     },
     {
         "Name": "Spanish (Colombia)-Salome- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Colombia",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\udde8\ud83c\uddf4"
     },
     {
         "Name": "Spanish (Costa Rica)-Juan- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Costa Rica",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\udde8\ud83c\uddf7"
     },
     {
         "Name": "Spanish (Costa Rica)-Maria- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Costa Rica",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\udde8\ud83c\uddf7"
     },
     {
         "Name": "Spanish (Cuba)-Belkys- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Cuba",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\udde8\ud83c\uddfa"
     },
     {
         "Name": "Spanish (Dominican Republic)-Emilio- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Dominican Republic",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\udde9\ud83c\uddf4"
     },
     {
         "Name": "Spanish (Dominican Republic)-Ramona- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Dominican Republic",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\udde9\ud83c\uddf4"
     },
     {
         "Name": "Spanish (Ecuador)-Andrea- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Ecuador",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddea\ud83c\udde8"
     },
     {
         "Name": "Spanish (Ecuador)-Luis- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Ecuador",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddea\ud83c\udde8"
     },
     {
         "Name": "Spanish (Spain)-Alvaro- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Spain",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddea\ud83c\uddf8"
     },
     {
         "Name": "Spanish (Spain)-Elvira- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Spain",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddea\ud83c\uddf8"
     },
     {
         "Name": "Spanish (Equatorial Guinea)-Teresa- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Equatorial Guinea",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddec\ud83c\uddf6"
     },
     {
         "Name": "Spanish (Guatemala)-Andres- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Guatemala",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddec\ud83c\uddf9"
     },
     {
         "Name": "Spanish (Guatemala)-Marta- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Guatemala",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddec\ud83c\uddf9"
     },
     {
         "Name": "Spanish (Honduras)-Carlos- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Honduras",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\udded\ud83c\uddf3"
     },
     {
         "Name": "Spanish (Honduras)-Karla- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Honduras",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\udded\ud83c\uddf3"
     },
     {
         "Name": "Spanish (Nicaragua)-Federico- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Nicaragua",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddf3\ud83c\uddee"
     },
     {
         "Name": "Spanish (Nicaragua)-Yolanda- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Nicaragua",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddf3\ud83c\uddee"
     },
     {
         "Name": "Spanish (Panama)-Margarita- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Panama",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddf5\ud83c\udde6"
     },
     {
         "Name": "Spanish (Panama)-Roberto- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Panama",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddf5\ud83c\udde6"
     },
     {
         "Name": "Spanish (Peru)-Alex- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Peru",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddf5\ud83c\uddea"
     },
     {
         "Name": "Spanish (Peru)-Camila- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Peru",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddf5\ud83c\uddea"
     },
     {
         "Name": "Spanish (Puerto Rico)-Karina- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Puerto Rico",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": ""
     },
     {
         "Name": "Spanish (Puerto Rico)-Victor- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Puerto Rico",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": ""
     },
     {
         "Name": "Spanish (Paraguay)-Mario- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Paraguay",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddf5\ud83c\uddfe"
     },
     {
         "Name": "Spanish (Paraguay)-Tania- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Paraguay",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddf5\ud83c\uddfe"
     },
     {
         "Name": "Spanish (El Salvador)-Lorena- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "El Salvador",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddf8\ud83c\uddfb"
     },
     {
         "Name": "Spanish (El Salvador)-Rodrigo- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "El Salvador",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddf8\ud83c\uddfb"
     },
     {
         "Name": "Spanish (United States)-Alonso- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "United States of America",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "Name": "Spanish (United States)-Paloma- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "United States of America",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "Name": "Spanish (Uruguay)-Mateo- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Uruguay",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddfa\ud83c\uddfe"
     },
     {
         "Name": "Spanish (Uruguay)-Valentina- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Uruguay",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddfa\ud83c\uddfe"
     },
     {
         "Name": "Spanish (Venezuela)-Paola- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Venezuela (Bolivarian Republic of)",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddfb\ud83c\uddea"
     },
     {
         "Name": "Spanish (Venezuela)-Sebastian- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Venezuela (Bolivarian Republic of)",
-        "Language": "Spanish"
+        "Language": "Spanish",
+        "Emoji": "\ud83c\uddfb\ud83c\uddea"
     },
     {
         "Name": "Estonian (Estonia)-Anu- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Estonia",
-        "Language": "Estonian"
+        "Language": "Estonian",
+        "Emoji": "\ud83c\uddea\ud83c\uddea"
     },
     {
         "Name": "Estonian (Estonia)-Kert- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Estonia",
-        "Language": "Estonian"
+        "Language": "Estonian",
+        "Emoji": "\ud83c\uddea\ud83c\uddea"
     },
     {
         "Name": "Persian (Iran)-Dilara- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Iran (Islamic Republic of)",
-        "Language": "Persian"
+        "Language": "Persian",
+        "Emoji": "\ud83c\uddee\ud83c\uddf7"
     },
     {
         "Name": "Persian (Iran)-Farid- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Iran (Islamic Republic of)",
-        "Language": "Persian"
+        "Language": "Persian",
+        "Emoji": "\ud83c\uddee\ud83c\uddf7"
     },
     {
         "Name": "Finnish (Finland)-Harri- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Finland",
-        "Language": "Finnish"
+        "Language": "Finnish",
+        "Emoji": "\ud83c\uddeb\ud83c\uddee"
     },
     {
         "Name": "Finnish (Finland)-Noora- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Finland",
-        "Language": "Finnish"
+        "Language": "Finnish",
+        "Emoji": "\ud83c\uddeb\ud83c\uddee"
     },
     {
         "Name": "French (Belgium)-Charline- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Belgium",
-        "Language": "French"
+        "Language": "French",
+        "Emoji": "\ud83c\udde7\ud83c\uddea"
     },
     {
         "Name": "French (Belgium)-Gerard- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Belgium",
-        "Language": "French"
+        "Language": "French",
+        "Emoji": "\ud83c\udde7\ud83c\uddea"
     },
     {
         "Name": "French (Canada)-Sylvie- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Canada",
-        "Language": "French"
+        "Language": "French",
+        "Emoji": "\ud83c\udde8\ud83c\udde6"
     },
     {
         "Name": "French (Canada)-Antoine- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Canada",
-        "Language": "French"
+        "Language": "French",
+        "Emoji": "\ud83c\udde8\ud83c\udde6"
     },
     {
         "Name": "French (Canada)-Jean- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Canada",
-        "Language": "French"
+        "Language": "French",
+        "Emoji": "\ud83c\udde8\ud83c\udde6"
     },
     {
         "Name": "French (Switzerland)-Ariane- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Switzerland",
-        "Language": "French"
+        "Language": "French",
+        "Emoji": "\ud83c\udde8\ud83c\udded"
     },
     {
         "Name": "French (Switzerland)-Fabrice- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Switzerland",
-        "Language": "French"
+        "Language": "French",
+        "Emoji": "\ud83c\udde8\ud83c\udded"
     },
     {
         "Name": "Irish (Ireland)-Colm- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Ireland",
-        "Language": "Irish"
+        "Language": "Irish",
+        "Emoji": "\ud83c\uddee\ud83c\uddea"
     },
     {
         "Name": "Irish (Ireland)-Orla- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Ireland",
-        "Language": "Irish"
+        "Language": "Irish",
+        "Emoji": "\ud83c\uddee\ud83c\uddea"
     },
     {
         "Name": "Galician (Spain)-Roi- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Spain",
-        "Language": "Galician"
+        "Language": "Galician",
+        "Emoji": "\ud83c\uddea\ud83c\uddf8"
     },
     {
         "Name": "Galician (Spain)-Sabela- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Spain",
-        "Language": "Galician"
+        "Language": "Galician",
+        "Emoji": "\ud83c\uddea\ud83c\uddf8"
     },
     {
         "Name": "Gujarati (India)-Dhwani- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "India",
-        "Language": "Gujarati"
+        "Language": "Gujarati",
+        "Emoji": "\ud83c\uddee\ud83c\uddf3"
     },
     {
         "Name": "Gujarati (India)-Niranjan- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "India",
-        "Language": "Gujarati"
+        "Language": "Gujarati",
+        "Emoji": "\ud83c\uddee\ud83c\uddf3"
     },
     {
         "Name": "Hindi (India)-Madhur- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "India",
-        "Language": "Hindi"
+        "Language": "Hindi",
+        "Emoji": "\ud83c\uddee\ud83c\uddf3"
     },
     {
         "Name": "Hindi (India)-Swara- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "India",
-        "Language": "Hindi"
+        "Language": "Hindi",
+        "Emoji": "\ud83c\uddee\ud83c\uddf3"
     },
     {
         "Name": "Croatian (Croatia)-Gabrijela- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Croatia",
-        "Language": "Croatian"
+        "Language": "Croatian",
+        "Emoji": "\ud83c\udded\ud83c\uddf7"
     },
     {
         "Name": "Croatian (Croatia)-Srecko- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Croatia",
-        "Language": "Croatian"
+        "Language": "Croatian",
+        "Emoji": "\ud83c\udded\ud83c\uddf7"
     },
     {
         "Name": "Hungarian (Hungary)-Noemi- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Hungary",
-        "Language": "Hungarian"
+        "Language": "Hungarian",
+        "Emoji": "\ud83c\udded\ud83c\uddfa"
     },
     {
         "Name": "Hungarian (Hungary)-Tamas- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Hungary",
-        "Language": "Hungarian"
+        "Language": "Hungarian",
+        "Emoji": "\ud83c\udded\ud83c\uddfa"
     },
     {
         "Name": "Icelandic (Iceland)-Gudrun- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Iceland",
-        "Language": "Icelandic"
+        "Language": "Icelandic",
+        "Emoji": "\ud83c\uddee\ud83c\uddf8"
     },
     {
         "Name": "Icelandic (Iceland)-Gunnar- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Iceland",
-        "Language": "Icelandic"
+        "Language": "Icelandic",
+        "Emoji": "\ud83c\uddee\ud83c\uddf8"
     },
     {
         "Name": "Javanese (Indonesia)-Dimas- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Indonesia",
-        "Language": "Javanese"
+        "Language": "Javanese",
+        "Emoji": "\ud83c\uddee\ud83c\udde9"
     },
     {
         "Name": "Javanese (Indonesia)-Siti- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Indonesia",
-        "Language": "Javanese"
+        "Language": "Javanese",
+        "Emoji": "\ud83c\uddee\ud83c\udde9"
     },
     {
         "Name": "Georgian (Georgia)-Eka- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Georgia",
-        "Language": "Georgian"
+        "Language": "Georgian",
+        "Emoji": "\ud83c\uddec\ud83c\uddea"
     },
     {
         "Name": "Georgian (Georgia)-Giorgi- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Georgia",
-        "Language": "Georgian"
+        "Language": "Georgian",
+        "Emoji": "\ud83c\uddec\ud83c\uddea"
     },
     {
         "Name": "Kazakh (Kazakhstan)-Aigul- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Kazakhstan",
-        "Language": "Kazakh"
+        "Language": "Kazakh",
+        "Emoji": "\ud83c\uddf0\ud83c\uddff"
     },
     {
         "Name": "Kazakh (Kazakhstan)-Daulet- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Kazakhstan",
-        "Language": "Kazakh"
+        "Language": "Kazakh",
+        "Emoji": "\ud83c\uddf0\ud83c\uddff"
     },
     {
         "Name": "Khmer (Cambodia)-Piseth- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Cambodia",
-        "Language": "Khmer"
+        "Language": "Khmer",
+        "Emoji": "\ud83c\uddf0\ud83c\udded"
     },
     {
         "Name": "Khmer (Cambodia)-Sreymom- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Cambodia",
-        "Language": "Khmer"
+        "Language": "Khmer",
+        "Emoji": "\ud83c\uddf0\ud83c\udded"
     },
     {
         "Name": "Kannada (India)-Gagan- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "India",
-        "Language": "Kannada"
+        "Language": "Kannada",
+        "Emoji": "\ud83c\uddee\ud83c\uddf3"
     },
     {
         "Name": "Kannada (India)-Sapna- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "India",
-        "Language": "Kannada"
+        "Language": "Kannada",
+        "Emoji": "\ud83c\uddee\ud83c\uddf3"
     },
     {
         "Name": "Lao (Laos)-Chanthavong- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Lao People's Democratic Republic",
-        "Language": "Lao"
+        "Language": "Lao",
+        "Emoji": "\ud83c\uddf1\ud83c\udde6"
     },
     {
         "Name": "Lao (Laos)-Keomany- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Lao People's Democratic Republic",
-        "Language": "Lao"
+        "Language": "Lao",
+        "Emoji": "\ud83c\uddf1\ud83c\udde6"
     },
     {
         "Name": "Lithuanian (Lithuania)-Leonas- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Lithuania",
-        "Language": "Lithuanian"
+        "Language": "Lithuanian",
+        "Emoji": "\ud83c\uddf1\ud83c\uddf9"
     },
     {
         "Name": "Lithuanian (Lithuania)-Ona- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Lithuania",
-        "Language": "Lithuanian"
+        "Language": "Lithuanian",
+        "Emoji": "\ud83c\uddf1\ud83c\uddf9"
     },
     {
         "Name": "Latvian (Latvia)-Everita- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Latvia",
-        "Language": "Latvian"
+        "Language": "Latvian",
+        "Emoji": "\ud83c\uddf1\ud83c\uddfb"
     },
     {
         "Name": "Latvian (Latvia)-Nils- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Latvia",
-        "Language": "Latvian"
+        "Language": "Latvian",
+        "Emoji": "\ud83c\uddf1\ud83c\uddfb"
     },
     {
         "Name": "Macedonian (North Macedonia)-Aleksandar- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "North Macedonia",
-        "Language": "Macedonian"
+        "Language": "Macedonian",
+        "Emoji": "\ud83c\uddf2\ud83c\uddf0"
     },
     {
         "Name": "Macedonian (North Macedonia)-Marija- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "North Macedonia",
-        "Language": "Macedonian"
+        "Language": "Macedonian",
+        "Emoji": "\ud83c\uddf2\ud83c\uddf0"
     },
     {
         "Name": "Malayalam (India)-Midhun- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "India",
-        "Language": "Malayalam"
+        "Language": "Malayalam",
+        "Emoji": "\ud83c\uddee\ud83c\uddf3"
     },
     {
         "Name": "Malayalam (India)-Sobhana- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "India",
-        "Language": "Malayalam"
+        "Language": "Malayalam",
+        "Emoji": "\ud83c\uddee\ud83c\uddf3"
     },
     {
         "Name": "Mongolian (Mongolia)-Bataa- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Mongolia",
-        "Language": "Mongolian"
+        "Language": "Mongolian",
+        "Emoji": "\ud83c\uddf2\ud83c\uddf3"
     },
     {
         "Name": "Mongolian (Mongolia)-Yesui- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Mongolia",
-        "Language": "Mongolian"
+        "Language": "Mongolian",
+        "Emoji": "\ud83c\uddf2\ud83c\uddf3"
     },
     {
         "Name": "Marathi (India)-Aarohi- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "India",
-        "Language": "Marathi"
+        "Language": "Marathi",
+        "Emoji": "\ud83c\uddee\ud83c\uddf3"
     },
     {
         "Name": "Marathi (India)-Manohar- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "India",
-        "Language": "Marathi"
+        "Language": "Marathi",
+        "Emoji": "\ud83c\uddee\ud83c\uddf3"
     },
     {
         "Name": "Maltese (Malta)-Grace- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Malta",
-        "Language": "Maltese"
+        "Language": "Maltese",
+        "Emoji": "\ud83c\uddf2\ud83c\uddf9"
     },
     {
         "Name": "Maltese (Malta)-Joseph- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Malta",
-        "Language": "Maltese"
+        "Language": "Maltese",
+        "Emoji": "\ud83c\uddf2\ud83c\uddf9"
     },
     {
         "Name": "Burmese (Myanmar)-Nilar- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Myanmar",
-        "Language": "Burmese"
+        "Language": "Burmese",
+        "Emoji": "\ud83c\uddf2\ud83c\uddf2"
     },
     {
         "Name": "Burmese (Myanmar)-Thiha- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Myanmar",
-        "Language": "Burmese"
+        "Language": "Burmese",
+        "Emoji": "\ud83c\uddf2\ud83c\uddf2"
     },
     {
         "Name": "Nepali (Nepal)-Hemkala- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Nepal",
-        "Language": "Nepali"
+        "Language": "Nepali",
+        "Emoji": "\ud83c\uddf3\ud83c\uddf5"
     },
     {
         "Name": "Nepali (Nepal)-Sagar- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Nepal",
-        "Language": "Nepali"
+        "Language": "Nepali",
+        "Emoji": "\ud83c\uddf3\ud83c\uddf5"
     },
     {
         "Name": "Dutch (Belgium)-Arnaud- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Belgium",
-        "Language": "Dutch"
+        "Language": "Dutch",
+        "Emoji": "\ud83c\udde7\ud83c\uddea"
     },
     {
         "Name": "Dutch (Belgium)-Dena- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Belgium",
-        "Language": "Dutch"
+        "Language": "Dutch",
+        "Emoji": "\ud83c\udde7\ud83c\uddea"
     },
     {
         "Name": "Polish (Poland)-Marek- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Poland",
-        "Language": "Polish"
+        "Language": "Polish",
+        "Emoji": "\ud83c\uddf5\ud83c\uddf1"
     },
     {
         "Name": "Polish (Poland)-Zofia- (Female)",
         "Gender": "Female",
         "ShortName": "",
         "Country": "Poland",
-        "Language": "Polish"
+        "Language": "Polish",
+        "Emoji": "\ud83c\uddf5\ud83c\uddf1"
     },
     {
         "Name": "Pashto (Afghanistan)-Gul Nawaz- (Male)",
         "Gender": "Male",
         "ShortName": "",
         "Country": "Afghanistan",
-        "Language": "Pashto"
+        "Language": "Pashto",
+        "Emoji": "\ud83c\udde6\ud83c\uddeb"
     }
 ]
